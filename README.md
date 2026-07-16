@@ -1,2 +1,15 @@
-# sql-from-scratch
-A structured collection of SQL concepts, queries, examples, and hands-on practice from beginner to advanced level.
+**SQL Learning Journey**
+
+   This repository contains my SQL learning notes, examples, and practice exercises.
+
+📚**Learning Source**
+   - W3Schools SQL Tutorial
+
+💻 **Practice Platform**
+  - Google Colab
+   
+🎯 **Objectives**
+  - Learn SQL fundamentals
+  - Understand database concepts
+  - Practice SQL queries with examples
+  - Build a strong foundation for database management
